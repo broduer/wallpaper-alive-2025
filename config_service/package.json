@@ -13,7 +13,7 @@
   "author": "TREE.s",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^20.0.2",
+    "electron": "^36.2.0",
     "electron-packager": "^16.0.0",
     "electron-rebuild": "^3.2.9"
   },
