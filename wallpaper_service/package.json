@@ -1,5 +1,5 @@
 {
-  "name": "WallpaperAlive",
+  "name": "WallpaperAlive2025",
   "version": "1.1.0",
   "description": "Wallpaper service",
   "main": "app.js",
@@ -7,19 +7,19 @@
     "start": "electron . --dev=true",
     "compile": "node-gyp clean configure build --verbose --arch=x64",
     "rebuild": ".\\node_modules\\.bin\\electron-rebuild.cmd",
-    "build": "electron-packager . WallpaperAlive --platform=win32 --arch=x64 --icon=../static_global/brand.ico --electron-version=19.0.6 --overwrite --out=../WallpaperAlive",
+    "build": "electron-packager . WallpaperAlive2025 --platform=win32 --arch=x64 --icon=../static_global/brand.ico --electron-version=19.0.6 --overwrite --out=../WallpaperAlive2025",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arbeers1/wallpaper-alive-new.git"
+    "url": "git+https://github.com/broduer/wallpaper-alive-2025.git"
   },
   "author": "TREE.s",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arbeers1/wallpaper-alive-new/issues"
+    "url": "https://github.com/broduer/wallpaper-alive-2025/issues"
   },
-  "homepage": "https://github.com/arbeers1/wallpaper-alive-new#readme",
+  "homepage": "https://github.com/broduer/wallpaper-alive-2025#readme",
   "devDependencies": {
     "electron": "^20.0.2",
     "electron-packager": "^16.0.0",

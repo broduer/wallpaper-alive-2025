@@ -5,7 +5,7 @@ const path = require('path')
 const { exec } = require("child_process")
 
 const stagingPath = path.join(__dirname, "publisher_staging")
-const validURLS = ["steam://store/2009120", "steam://url/SteamWorkshopPage/2009120", "https://steamcommunity.com/app/2003310/discussions", "https://github.com/arbeers1/wallpaper-alive-new", "steam://url/SteamWorkshopPage/2003310"]
+const validURLS = ["steam://store/2009120", "steam://url/SteamWorkshopPage/2009120", "https://steamcommunity.com/app/2003310/discussions", "https://github.com/broduer/wallpaper-alive-2025", "steam://url/SteamWorkshopPage/2003310"]
 var dataTypes;
 var savePath;
 

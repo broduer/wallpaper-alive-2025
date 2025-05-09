@@ -10,7 +10,7 @@
     "build": "electron-packager . WallpaperAliveMenu --platform=win32 --arch=x64 --icon=../static_global/brand.ico --electron-version=19.0.6 --overwrite --out=../WallpaperAlive",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "TREE.s",
+  "author": "broduer",
   "license": "ISC",
   "devDependencies": {
     "electron": "^20.0.2",
