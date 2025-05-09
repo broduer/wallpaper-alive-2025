@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/broduer/wallpaper-alive-2025#readme",
   "devDependencies": {
-    "electron": "^20.0.2",
+    "electron": "^22.3.25",
     "electron-packager": "^16.0.0",
     "electron-rebuild": "^3.2.9"
   },
